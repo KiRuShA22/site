@@ -1,0 +1,82 @@
+body{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #f5f5f5
+}
+/* main-container */
+.main-container{
+    display: flex;
+    flex-direction: row-reverse;
+}
+/* main-content-section*/
+
+    
+
+/* about-me section */
+.about-me-section-proffesion{
+    Line-height: 17px;
+}
+
+.about-me-section-proffesion,
+.about-me-section-name{
+    color: black;
+    Font-weight: Bold;
+}
+
+.about-me-section-name{
+    Font-size: 45px;
+    Line-height: 55px;
+}
+.about-me-section-proffesion,
+.about-me-section-info{
+    Font-size: 14px;
+}
+
+.about-me-section-info{
+    color: #595959;
+    Font-weight: Regular;
+    Line-height: 24px;
+    width: 400px;
+}
+
+
+/* project-section */
+.projects-section-name{
+    color: black;
+    Font-style: Bold;
+    Font-size: 22px;
+    Line-height: 27px;
+}
+
+/* sidebar-section */
+.sidebar-section{
+    background-color: #1E2939;
+}
+.my-skills{
+    color: #fff;
+    Font-weight: Regular;
+    Font-size: 14px;
+    Line-height: 24px;
+}
+.numbers{
+    color: #FB6D3A;
+    Font-weight: Bold;
+    Font-size: 14px;
+    Line-height: 24px;
+}
+.sidebar-section-name{
+    color: white;
+    Font-style: Bold;
+    Font-size: 22px;
+    Line-height: 27px;
+}
+/* contact-section */   
+.contact-section-number-and-mail{
+    color: white;
+    Font-weight: Bold;
+    Font-size: 14px;
+    Line-height: 24px;
+}
+
+
+
